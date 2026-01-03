@@ -82,7 +82,7 @@ export default async function Dashboard() {
               
               {/* ✨ แก้ไขตรงนี้: เพิ่ม flex justify-center เพื่อจัดกึ่งกลาง */}
               <div className="p-6 flex justify-center items-center bg-gray-50/30">
-                <MqttPanel />
+
               </div>
 
             </div>
